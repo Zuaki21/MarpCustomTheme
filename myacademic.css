@@ -7,7 +7,7 @@
 :root {
   --color-background: #fff;
   --color-foreground: #333;
-  --color-highlight: #800000;
+  --color-highlight: #000b80;
 }
 
 section {
@@ -25,7 +25,7 @@ section::after {
 }
 
 ul ul {
-  font-size: 0.9em;
+  font-size: 0.7em;
 }
 
 section.lead h1 {
